@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Isabela Erthal.<br>
+I'm a Biomedical Informatics undergrad @ University of São Paulo (USP) and I'm looking forward to work in a few areas such as **Data Science**, **Web Development** or **Bioinformatics**.<br><br>
+I’m currently working on a bioinformatics laboratory named Cancer Epigenomics, where we analyse biological data such as gene expression and DNA methylation data to explore some unknown cancer mechanisms 🤔.<br>
+We're used to some libraries such as DESeq2, ELMER and TCGAbiolinks.<br><br>
+I’m currently learning Python Framework Django 😄.<br><br>
+This readme is not done yet, I was just too excited to create one hehe
 <!--
 **erthal-id/erthal-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
