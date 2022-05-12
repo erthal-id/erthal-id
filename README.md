@@ -10,8 +10,8 @@ I was a project manager in the Biomedical Informatics Junior Enterprise (<a href
 
 <div>
 <a href="https://github.com/erthal-id">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erthal-id&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erthal-id&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erthal-id&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=erthal-id&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div></a><br><br>
   
 This readme is not done yet, I was just too excited to create one hehe
