@@ -3,7 +3,7 @@
 I'm Isabela Erthal.<br>
 I'm a Biomedical Informatics undergrad @ University of São Paulo (USP) and I'm looking forward to work in a few areas such as **Data Science**, **Web Development** or **Bioinformatics**.<br><br>
 I’m currently working on a bioinformatics laboratory named Cancer Epigenomics, where we analyse biological data including gene expression and DNA methylation data to explore some unknown cancer mechanisms 🤔.<br>
-We code in R and we're used to some libraries like DESeq2, ELMER and TCGAbiolinks.<br><br>
+We code in R and we're used to some packages like <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html">DESeq2</a>, <a href="https://bioconductor.org/packages/release/bioc/html/ELMER.html">ELMER</a> and <a href="https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html">TCGAbiolinks</a>.<br><br>
 I’m currently learning Python Framework Django 😄.<br><br>
 This readme is not done yet, I was just too excited to create one hehe
 <!--
