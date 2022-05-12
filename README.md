@@ -9,7 +9,7 @@ I’m currently learning Python Framework **Django** 😄.<br><br>
 I was a project manager in the Biomedical Informatics Junior Enterprise (<a href='https://infobiojr.com.br/'>InfoBio Jr.</a>) and helped developing our Internal Management System called <a href='https://github.com/projetosinfobio/SiGI'>SiGI</a> (it's not ready yet, since it's more of a learning project where the members can use it to improve their developing skills), using some **HTML5**, **CSS3**, **JavaScript**, **PHP** and **SQL**.<br><br>
 
 <div>
-<a href="https://github.com/erthal-id">
+<a href="https://github.com/erthal-id?tab=repositories">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erthal-id&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erthal-id&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div></a><br><br>
